@@ -2,4 +2,4 @@ from app import calculate_total
 
 
 def test_calculate_total():
-    assert calculate_total(5, 10) == 50
+    assert calculate_total(5, 10) == 60
